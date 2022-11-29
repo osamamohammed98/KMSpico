@@ -7,6 +7,7 @@
 - Requirements: .NET 4.0 or Windows 8/8.1/10/2012/2016.
 
 - Activate:
+- ** Password: 2016 **
 
 >Windows Vista Bussines/Enterprise
     Windows 7 Professional/Enterprise
